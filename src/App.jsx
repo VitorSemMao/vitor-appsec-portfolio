@@ -361,9 +361,6 @@ function App() {
             </a>
           </div>
         </section>
-@@
-        
-
         <section className="content-section" id="skills">
           <SectionHeader
             eyebrow="Tecnologias"
