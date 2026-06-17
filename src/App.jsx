@@ -367,8 +367,8 @@ function App() {
         <section className="content-section" id="skills">
           <SectionHeader
             eyebrow="Tecnologias"
-            title="Conhecimento técnico organizado do jeito que recrutador entende rápido"
-            description="Em vez de uma lista solta, esta seção resume onde está meu repertório hoje: segurança aplicada, ferramentas de investigação e base de desenvolvimento."
+            title="Competências técnicas em segurança de aplicações e desenvolvimento"
+            description="Resumo das principais áreas de conhecimento em AppSec, análise de vulnerabilidades, ferramentas de investigação e desenvolvimento."
           />
 
           <div className="tech-grid">
@@ -391,8 +391,8 @@ function App() {
         <section className="content-section" id="projects">
           <SectionHeader
             eyebrow="Projetos"
-            title="Cases baseados no seu currículo, mas apresentados com cara de portfólio"
-            description="Como sua vivência ainda está muito ligada a laboratório e ambiente acadêmico, modelei os projetos abaixo como estudos de caso curtos e objetivos."
+            title="Projetos e estudos de caso"
+            description="Seleção de experiências práticas com foco em segurança de aplicações, APIs, investigação técnica e documentação."
           />
 
           <div className="project-grid">
@@ -432,8 +432,8 @@ function App() {
           <div className="journey-main">
             <SectionHeader
               eyebrow="Trajetória"
-              title="Formação, certificações e sinal de especialização"
-              description="O objetivo aqui é mostrar direção clara: você ainda está em construção, mas já tem foco, linguagem técnica e consistência de estudo."
+              title="Formação, certificações e desenvolvimento profissional"
+              description="Base acadêmica e trilha de estudos voltadas para segurança da informação, desenvolvimento de software e evolução técnica contínua."
             />
 
             <div className="journey-grid">
@@ -484,8 +484,8 @@ function App() {
         <section className="content-section contact-section" id="contact">
           <SectionHeader
             eyebrow="Contato"
-            title="Portfólio pronto para ganhar projetos reais e ir para produção depois"
-            description="Por enquanto deixei a base local, mas já com estrutura boa o bastante para evoluir para uma versão publicada sem trocar o design."
+            title="Contato e informações profissionais"
+            description="Canais para contato, perfil profissional e links públicos para acompanhamento de projetos e experiência técnica."
           />
 
           <div className="contact-layout">
