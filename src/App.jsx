@@ -337,6 +337,14 @@ function App() {
           </div>
 
           <div className="hero-panel">
+            <figure className="portrait-card">
+              <img
+                className="portrait-photo"
+                src="/vitor-profile.jpg"
+                alt="Foto de Vitor Pereira da Costa"
+              />
+            </figure>
+
             <div className="intro-card">
               <span className="eyebrow">Resumo profissional</span>
               <p>
